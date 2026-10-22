@@ -1,6 +1,6 @@
 Survey Data
 
-This repository contains the survey data collected for the manuscript: "Seen but not punished: The detection–response gap in Vietnamese Generation Z consumers' reactions to greenwashing". Submitted to Journal of International Consumer Marketing.
+This repository contains the survey data collected for the manuscript: "Seen but not punished: The detection–response gap in Vietnamese Generation Z consumers' reactions to greenwashing". Submitted to Journal of Journal of Promotion Management.
 
 The data were exported directly from Google Forms. Each file is provided in the original Vietnamese (VNM) and in an English translation (ENG).
 
